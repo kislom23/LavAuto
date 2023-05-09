@@ -1,6 +1,6 @@
 # lavauto
 
-A new Flutter project.
+Une application de lavage auto à domicile
 
 ## Getting Started
 
