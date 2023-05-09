@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1003878887727-4ian5kroep296out0uomsl5rm182og24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1003878887727-4ian5kroep296out0uomsl5rm182og24</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1003878887727-pg3pg1knaj4rsen073kmr1pkj45fa6t6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6SlQVYCOsDkCbgMBGJOM8wZNmancs5I0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003878887727</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lavauto</string>
+	<key>PROJECT_ID</key>
+	<string>vakloe-8bc04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vakloe-8bc04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1003878887727:ios:a5fc35b3740b1df4ea31da</string>
+</dict>
+</plist>

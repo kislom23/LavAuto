@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1003878887727",
+    "project_id": "vakloe-8bc04",
+    "storage_bucket": "vakloe-8bc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003878887727:android:a03a836a876d5217ea31da",
+        "android_client_info": {
+          "package_name": "com.example.lavauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003878887727-e60eb2f9a0bk8fggupr1dtrctl05c4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsG3FOmGhCE0rK4ygqr_mwxTlR06T50Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003878887727-de8qpjrc4fkuhi1pigmn2un9in0kceai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003878887727-4ian5kroep296out0uomsl5rm182og24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lavauto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003878887727:android:4ddcd628855fa8ceea31da",
+        "android_client_info": {
+          "package_name": "com.mycompany.vakloe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003878887727-pg3pg1knaj4rsen073kmr1pkj45fa6t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vakloe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1003878887727-e60eb2f9a0bk8fggupr1dtrctl05c4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsG3FOmGhCE0rK4ygqr_mwxTlR06T50Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003878887727-de8qpjrc4fkuhi1pigmn2un9in0kceai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003878887727-4ian5kroep296out0uomsl5rm182og24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lavauto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
